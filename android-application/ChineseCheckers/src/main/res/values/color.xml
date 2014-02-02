@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="charcoal_hotseat_background">#161717</color>
+    <color name="red">#ED2C31</color>
+    <color name="blue">#1780C1</color>
+    <color name="green">#15A850</color>
+    <color name="yellow">#F8E816</color>
+    <color name="purple">#8601AF</color>
+    <color name="orange">#F89230</color>
+
+</resources>
